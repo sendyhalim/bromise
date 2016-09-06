@@ -15,10 +15,6 @@
     "runner",
     "loop",
     "retry",
-    "promise",
-    "loop",
-    "promise",
-    "retry",
     "bromise"
   ],
   "author": "Sendy Halim <sendyhalim93@gmail.com>",
